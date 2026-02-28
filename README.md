@@ -1,1 +1,1 @@
-# minipriject_week6
+# mini_project_week6
